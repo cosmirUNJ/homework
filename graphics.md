@@ -45,9 +45,9 @@ Menjelaskan tentang Orthographic Camera dan penggunaannya.
 Menjelaskan tentang gambar NinePatch, bagaimana pembuatannya dan bagaimana digunakan pada konteks libGDX.
     * Bitmap fonts
 Menjelaskan tentang Class Bitmap fonts (font pada gambat bitmap) spesifikasi file format untuk font file dan tools-nya.
-      - Distance field fonts
+      * Distance field fonts
 Merupakan teknik yang mengizinkan kita untuk merender huruf bitmap tanpa ujung bergerigi bahkan dengan apabila dilakukan pembesaran. Dokumentasi ini menjelaskan cara mengimplementasi teknik ini dengan libgdx.
-      - Color Markup Language
+         * Color Markup Language
 BitmapFontCache Class mendukung teks berwarna in-string melalui bahasa markup sederhana.
     * TextureAtlas
 Dokumentasi TextureAtlas class bisa ditemukan pada dokumentasi Texture Packer
