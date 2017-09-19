@@ -29,7 +29,7 @@
 
 * [Utilities](link.md)
 
-* [Math Utilities](link.md)
+* [Math Utilities](mathutilities.md)
 
 * [Tools](link.md)
 
