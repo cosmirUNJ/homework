@@ -3,9 +3,9 @@
 Tiap platform mempunyai fasilitas input yang berbeda. Pada desktop bisa menggunakan mouse dan keyboar, sedangkan pada Android menggunakan touch screen
 
 * Configuration & Querying
-    •	Disabling Accelerometer & Compass (Android only)
-    •	Enabling Gyroscope (Android only)
-    •	Querying Available Input Devices
+    * Disabling Accelerometer & Compass (Android only)
+    * Enabling Gyroscope (Android only)
+    * Querying Available Input Devices
 *	Mouse, Touch & Keyboard * Polling * Event Handling
     •	Input utama yang disupport libgdx yaitu mouse untuk desktop/browser, touch screen di Android, dan keyboard.
     •	Keyboard, tiga method utama untuk keyboard:
