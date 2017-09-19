@@ -1,9 +1,6 @@
-<p align="center">
-#LibGDX
-</p>
+<p align="center"><b>LibGDX</b></p>
 
-<div align="center">
-![LibGDX](/img/image.jpg)
+<div align="center"><img src="https://github.com/Gwoks/homework2/blob/master/img/image.png?raw=true" />
 </div>
 
 #### List
