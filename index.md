@@ -9,19 +9,19 @@
 
 * [A Simple Game](asimplegame.md)
 
-* [File Handling](link.md)
+* [File Handling](filehandling.md)
 
-* [Networking](link.md)
+* [Networking](networking.md)
 
-* [Preferences](link.md)
+* [Preferences](preferences.md)
 
-* [Input Handling](link.md)
+* [Input Handling](inputhandling.md)
 
-* [Memory Management](link.md)
+* [Memory Management](memorymanagement.md)
 
-* [Audio](link.md)
+* [Audio](audio.md)
 
-* [Graphics](link.md)
+* [Graphics](graphics.md)
 
 * [Managing Your Assets](link.md)
 
