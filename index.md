@@ -35,7 +35,7 @@
 
 * [Extensions](extensions.md)
 
-* [Using libGDX With Other JVM Languages](usingotherjvm.md.md)
+* [Using libGDX With Other JVM Languages](usingotherjvm.md)
 
 * [Third Party Services](thirdparty.md)
 
