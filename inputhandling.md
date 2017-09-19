@@ -33,19 +33,11 @@ Tiap platform mempunyai fasilitas input yang berbeda. Pada desktop bisa mengguna
     *	fling: user menyeret jari ke seberang layar, lalu mengangkatnya seperti sedang menggesek
     *	zoom: user meletakkan dua jari di layar dan memindahkannya bersama-sama
     *	pinch: mirip dengan zoom
-*	Simple Text Input
-  * Jika pada aplikasi membutuhkan username dan password
-*	Accelerometer
-  * Mengukur percepatan perangkat pada tiga sumbu (pada Android)
-*	Compass
-  * Beberapa perangkat Android dan iOS memiliki sensor medan magnet yang berorientasi terhadap kutub utara
-*	Gyroscope
-  * Beberapa perangkat Android memiliki sensor gyroscope yang memberikan informasi tentang laju putaran di rad/s di sekitar sumbu x, y, dan z
-*	Vibrator
-  * Memungkinkan untuk menggetarkan telepon user, fungsinya sebagai umpan balik
-*	Cursor Visibility & Catching
-  * Cursor catching dan positioning hanya ada pada desktop
-*	Back and Menu Key Catching
-  * Ketika user menekan tombol kembali pada Android, makabiasanya membunuh aktivitas yang sedang berjalan. Permainan mungkin menampilkan dialog konfirmasi sebelum membiarkan pengguna keluar
-*	On Screen Keyboard
-  * Fungsi ini hanya tersedia pada platform Android dan iOS
+*	Simple Text Input, jika pada aplikasi membutuhkan username dan password
+*	Accelerometer, mengukur percepatan perangkat pada tiga sumbu (pada Android)
+*	Compass, beberapa perangkat Android dan iOS memiliki sensor medan magnet yang berorientasi terhadap kutub utara
+*	Gyroscope, beberapa perangkat Android memiliki sensor gyroscope yang memberikan informasi tentang laju putaran di rad/s di sekitar sumbu x, y, dan z
+*	Vibrator, memungkinkan untuk menggetarkan telepon user, fungsinya sebagai umpan balik
+*	Cursor Visibility & Catching, cursor catching dan positioning hanya ada pada desktop
+*	Back and Menu Key Catching, ketika user menekan tombol kembali pada Android, makabiasanya membunuh aktivitas yang sedang berjalan. Permainan mungkin menampilkan dialog konfirmasi sebelum membiarkan pengguna keluar
+*	On Screen Keyboard, fungsi ini hanya tersedia pada platform Android dan iOS
