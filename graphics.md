@@ -22,13 +22,13 @@ OpenGL ES 2.0 membutuhkan spesifikasi precision modifiers untuk atributes, unifo
     * OpenGL ES 2.0 Documentation
 Link untuk dokumentasi openGL sendiri telah disediakan pada dokumentasi ini.
     * Utility Classes
-a.	Rendering Shapes
+      - Rendering Shapes
 Terdapat link dokumentasi khusus untuk mempelajari pembuatan berbagai bentuk.
-b.	Texture & Texture Regions
+      - Texture & Texture Regions
 Menggunakan Spritebatch, Textureregions, and Sprites yang akan dibahas pada bab berikutnya
-c.	Meshes
+      - Meshes
 Terdapat penjelasan tentang membuat dan merender mesh. Mesh sendiri adalah kumpulan verteks yang mendiskripsikan geometri untuk rendering
-d.	Shaders
+      - Shaders
 Dalam OpenGL 2.0 ES semuanya dirender dengan shader. Shader merupakan program kecil yang berjalan pada GPU dan memproses data untuk dirender. Terdapat verteks shader(hanya mengeksekusi satu verteks) dan fragment shader(mengeksekusi setiap fragment). Selain itu, pada dokumentasi ini juga ada contoh sederhana program shader
-e.	Frame Buffer Objects
+      - Frame Buffer Objects
 Terdapat link dokumentasi khusus untuk mempelajari framebuffer
