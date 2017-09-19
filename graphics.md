@@ -23,15 +23,15 @@ OpenGL ES 2.0 membutuhkan spesifikasi precision modifiers untuk atributes, unifo
 Link untuk dokumentasi openGL sendiri telah disediakan pada dokumentasi ini.
     * Utility Classes
       - Rendering Shapes:
-Terdapat link dokumentasi khusus untuk mempelajari pembuatan berbagai bentuk.
+      * Terdapat link dokumentasi khusus untuk mempelajari pembuatan berbagai bentuk.
       - Texture & Texture Regions:
-Menggunakan Spritebatch, Textureregions, and Sprites yang akan dibahas pada bab berikutnya
+      * Menggunakan Spritebatch, Textureregions, and Sprites yang akan dibahas pada bab berikutnya
       - Meshes:
-Terdapat penjelasan tentang membuat dan merender mesh. Mesh sendiri adalah kumpulan verteks yang mendiskripsikan geometri untuk rendering
+      * Terdapat penjelasan tentang membuat dan merender mesh. Mesh sendiri adalah kumpulan verteks yang mendiskripsikan geometri untuk rendering
       - Shaders:
-Dalam OpenGL 2.0 ES semuanya dirender dengan shader. Shader merupakan program kecil yang berjalan pada GPU dan memproses data untuk dirender. Terdapat verteks shader(hanya mengeksekusi satu verteks) dan fragment shader(mengeksekusi setiap fragment). Selain itu, pada dokumentasi ini juga ada contoh sederhana program shader
+      * Dalam OpenGL 2.0 ES semuanya dirender dengan shader. Shader merupakan program kecil yang berjalan pada GPU dan memproses data untuk dirender. Terdapat verteks shader(hanya mengeksekusi satu verteks) dan fragment shader(mengeksekusi setiap fragment). Selain itu, pada dokumentasi ini juga ada contoh sederhana program shader
       - Frame Buffer Objects:
-Terdapat link dokumentasi khusus untuk mempelajari framebuffer
+      * Terdapat link dokumentasi khusus untuk mempelajari framebuffer
 * 2D Graphics
     * Spritebatch, Textureregions, and Sprites
     Disini dijelaskan prosedur menggambar pada OpenGL. Terdapat SpriteBatch class(mengirimkan beberapa segiempat untuk texture yang sama ke GPU sekaligus), Texture class(mendecode file gambar untuk di load pada GPU, file gambar diletakkan pada folder “assets” dan sebaiknya dimensinya pangkat dari 2), TextureRegion class(mendeskripsikan segiempat didalam texture yg digunakan untuk menggambar hanya sebagian texture), Sprite Class(mendeskripsikan geometri dan warna yang akan digambar), tinting(pewarnaan), blending(enabled untuk mencampur dengan yang sudah ada di layar, disabled untuk mengganti yang sudah ada di layar) viewport, dan peyetelan performance pada dokumentasi ini
