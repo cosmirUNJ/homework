@@ -1,0 +1,1 @@
+The math package contains various useful classes for dealing with problems in geometry, linear algebra, collision detection, interpolation, and common unit conversions.
