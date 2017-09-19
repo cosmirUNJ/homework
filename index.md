@@ -31,11 +31,11 @@
 
 * [Math Utilities](mathutilities.md)
 
-* [Tools](link.md)
+* [Tools](toolss.md)
 
-* [Extensions](link.md)
+* [Extensions](extensions.md)
 
-* [Using libGDX With Other JVM Languages](link.md)
+* [Using libGDX With Other JVM Languages](usingotherjvm.md.md)
 
-* [Third Party Services](link.md)
+* [Third Party Services](thirdparty.md)
 
