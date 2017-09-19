@@ -22,13 +22,46 @@ OpenGL ES 2.0 membutuhkan spesifikasi precision modifiers untuk atributes, unifo
     * OpenGL ES 2.0 Documentation
 Link untuk dokumentasi openGL sendiri telah disediakan pada dokumentasi ini.
     * Utility Classes
-      - Rendering Shapes
+      - Rendering Shapes:
 Terdapat link dokumentasi khusus untuk mempelajari pembuatan berbagai bentuk.
-      - Texture & Texture Regions
+      - Texture & Texture Regions:
 Menggunakan Spritebatch, Textureregions, and Sprites yang akan dibahas pada bab berikutnya
-      - Meshes
+      - Meshes:
 Terdapat penjelasan tentang membuat dan merender mesh. Mesh sendiri adalah kumpulan verteks yang mendiskripsikan geometri untuk rendering
-      - Shaders
+      - Shaders:
 Dalam OpenGL 2.0 ES semuanya dirender dengan shader. Shader merupakan program kecil yang berjalan pada GPU dan memproses data untuk dirender. Terdapat verteks shader(hanya mengeksekusi satu verteks) dan fragment shader(mengeksekusi setiap fragment). Selain itu, pada dokumentasi ini juga ada contoh sederhana program shader
-      - Frame Buffer Objects
+      - Frame Buffer Objects:
 Terdapat link dokumentasi khusus untuk mempelajari framebuffer
+* 2D Graphics
+    * Spritebatch, Textureregions, and Sprites
+    Disini dijelaskan prosedur menggambar pada OpenGL. Terdapat SpriteBatch class(mengirimkan beberapa segiempat untuk texture yang sama ke GPU sekaligus), Texture class(mendecode file gambar untuk di load pada GPU, file gambar diletakkan pada folder “assets” dan sebaiknya dimensinya pangkat dari 2), TextureRegion class(mendeskripsikan segiempat didalam texture yg digunakan untuk menggambar hanya sebagian texture), Sprite Class(mendeskripsikan geometri dan warna yang akan digambar), tinting(pewarnaan), blending(enabled untuk mencampur dengan yang sudah ada di layar, disabled untuk mengganti yang sudah ada di layar) viewport, dan peyetelan performance pada dokumentasi ini
+    * 2D Animation
+   Animasi dibuat dengan menggunakan beberapa gambar/frame yang dijalankan pada setiap waktu. Pada libGDX terdapat Animation Class. Terdapat juga contoh TextureAtlas dan Spritesheet pada dokumentasi ini,
+    * Clipping
+Menggunakan scissorstack, akan membatasi rendering dalam batasan segiempat.
+    * Orthographic Camera
+Menjelaskan tentang Orthographic Camera dan penggunaannya.
+    * Ninepatches
+Menjelaskan tentang gambar NinePatch, bagaimana pembuatannya dan bagaimana digunakan pada konteks libGDX.
+    * Bitmap fonts
+Menjelaskan tentang Class Bitmap fonts (font pada gambat bitmap) spesifikasi file format untuk font file dan tools-nya.
+      - Distance field fonts
+Merupakan teknik yang mengizinkan kita untuk merender huruf bitmap tanpa ujung bergerigi bahkan dengan apabila dilakukan pembesaran. Dokumentasi ini menjelaskan cara mengimplementasi teknik ini dengan libgdx.
+      - Color Markup Language
+BitmapFontCache Class mendukung teks berwarna in-string melalui bahasa markup sederhana.
+    * TextureAtlas
+Dokumentasi TextureAtlas class bisa ditemukan pada dokumentasi Texture Packer
+    * Pixmaps
+Menjelaskan tentang pixmap, cara membuatnya dan menggambarnya
+    * Packing atlases offline
+Gunakan Texture Packer untuk packages offline
+    * Packing atlases at runtime
+Menyediakan beberapa link dokumentasi untuk packing atlas saat runtime
+    * Texture Compression
+LibGDX menyediakan 2 pilihan untuk mengkompres texture,  menggunakan ETC1 file format dan KTX/ZKTX format yang masing masing dijelaskan didokumentasi ini.
+    * 2D ParticleEffect
+Menjelaskan dasar penggunaan ParticleEffect, efisiensi dan contohnya
+    * Tile maps
+Menjelaskan api umum maps(peta) pada libgdx.
+    * Scene2d
+Menjelaskan tentang 2D scene graph untuk membangun aplikasi dan UI menggunakan hierarki aktor yang terdiri dari Drawing, Hit Detection, Event System dan Action. Komponen UI dari scene2d bisa dilihat di dokumentasi scene2d.ui. Terdapat juga table yang merupakan bagian dari WigetGroup scene2d.ui berfungsi untuk mengatur posisi dan ukuran pada childern menggunakan tabel logika, mirip seperti HTML. Terdapat juga Skin class pada dokumentasi ini. Skin class menyimpan resource untuk UI Widget untuk digunakan
