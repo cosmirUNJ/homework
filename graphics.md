@@ -17,9 +17,9 @@
     * Saat berhadapan dengan layar yang berbeda, seringkali perlu diputuskan untuk menentukan strategi tertentu bagaimana ukuran dan rasio aspek layar yang berbeda harus ditangani. Camera and Stage mendukung strategi viewport yang berbeda, misalnya saat melakukan pemotretan melalui Camera.project (vec, viewportX, viewportY, viewportWidth, viewportHeight).
 * OpenGL ES Support
 Libgdx didikung dengan OpenGL ES 2.0 dan 3.0. Untuk beberapa platform seperti IOS, GWT/HTML hanya support pada OpenGL ES 2.0. Untuk perangkat android, diperlukan setting tertentu pada android manifest agar aplikasi pada play store tidak terlihat pada perangkat yang tidak mendukung OpenGL 
-    Precision Modifiers
+    * Precision Modifiers
 OpenGL ES 2.0 membutuhkan spesifikasi precision modifiers untuk atributes, uniforms dan locals. Oleh karena itu dibutuhkan settingan agar sesuai dengan OpenGL ES precision modifier. Desktop OpenGL tidak support untuk hal ini.
-   OpenGL ES 2.0 Documentation
+    * OpenGL ES 2.0 Documentation
 Link untuk dokumentasi openGL sendiri telah disediakan pada dokumentasi ini.
     * Utility Classes
 a.	Rendering Shapes
