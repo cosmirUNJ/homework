@@ -1,10 +1,41 @@
-<center><h1>Kelompok MobCom</h1></center>
-<br>
-<br>
-<br>
-<center><h4>Homework 2</h4></center>
-<br>
-<p style="padding-left: 250px; padding-right: 250px;font-size: 16px" align="center">
-<a href="reviewlibgdx.md">Review LibGDX</a>
-<a href="highconcept_eelbat.md">High Concept</a>
-</p>
+<p align="center"><b>Review: LibGDX Architecture and API</b></p>
+
+<div align="center"><img src="https://github.com/Gwoks/homework2/blob/master/img/image.png?raw=true" />
+</div>
+
+#### List
+
+* [The Application Framework](applicationframework.md)
+
+* [A Simple Game](asimplegame.md)
+
+* [File Handling](filehandling.md)
+
+* [Networking](networking.md)
+
+* [Preferences](preferences.md)
+
+* [Input Handling](inputhandling.md)
+
+* [Memory Management](memorymanagement.md)
+
+* [Audio](audio.md)
+
+* [Graphics](graphics.md)
+
+* [Managing Your Assets](manageyourassets.md)
+
+* [Internationalization and Localization](i18nl10n.md)
+
+* [Utilities](utilities.md)
+
+* [Math Utilities](mathutilities.md)
+
+* [Tools](toolss.md)
+
+* [Extensions](extensions.md)
+
+* [Using libGDX With Other JVM Languages](usingotherjvm.md)
+
+* [Third Party Services](thirdparty.md)
+
