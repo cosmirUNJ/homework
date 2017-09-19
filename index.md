@@ -1,4 +1,4 @@
-<p align="center"><b>LibGDX</b></p>
+<p align="center"><b>Review: LibGDX Architecture and API</b></p>
 
 <div align="center"><img src="https://github.com/Gwoks/homework2/blob/master/img/image.png?raw=true" />
 </div>
