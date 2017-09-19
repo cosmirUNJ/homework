@@ -23,11 +23,11 @@
 
 * [Graphics](graphics.md)
 
-* [Managing Your Assets](link.md)
+* [Managing Your Assets](manageyourasset.md)
 
-* [Internationalization and Localization](link.md)
+* [Internationalization and Localization](i18nl10n.md)
 
-* [Utilities](link.md)
+* [Utilities](utilities.md)
 
 * [Math Utilities](mathutilities.md)
 
