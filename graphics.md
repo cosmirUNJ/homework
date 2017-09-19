@@ -64,4 +64,23 @@ Menjelaskan dasar penggunaan ParticleEffect, efisiensi dan contohnya
     * Tile maps
 Menjelaskan api umum maps(peta) pada libgdx.
     * Scene2d
-Menjelaskan tentang 2D scene graph untuk membangun aplikasi dan UI menggunakan hierarki aktor yang terdiri dari Drawing, Hit Detection, Event System dan Action. Komponen UI dari scene2d bisa dilihat di dokumentasi scene2d.ui. Terdapat juga table yang merupakan bagian dari WigetGroup scene2d.ui berfungsi untuk mengatur posisi dan ukuran pada childern menggunakan tabel logika, mirip seperti HTML. Terdapat juga Skin class pada dokumentasi ini. Skin class menyimpan resource untuk UI Widget untuk digunakan
+Menjelaskan tentang 2D scene graph untuk membangun aplikasi dan UI menggunakan hierarki aktor yang terdiri dari Drawing, Hit Detection, Event System dan Action. Komponen UI dari scene2d bisa dilihat di dokumentasi scene2d.ui. Terdapat juga table yang merupakan bagian dari WigetGroup scene2d.ui berfungsi untuk mengatur posisi dan ukuran pada childern menggunakan tabel logika, mirip seperti HTML. Terdapat juga Skin class pada dokumentasi ini. Skin class menyimpan resource untuk UI Widget untuk digunakan.
+* 3D Graphics
+    * Quick Start
+Terdapat beberapa artikel untuk mempelajari dasar dari 3D API
+    * Models
+Model mereprentasikan 3d asset yang tediri  dari hierarki node. Oleh karena itu disini dijelaskan tentang node dan transformasinya.
+    * Material and environment
+Disini menjelaskan tentang menspesifikasi material dan environment. Keduanya juga meng-extend Atrribute class yang juga dijelaskan pada dokumentasi ini.
+    * ModelBatch
+Dokumentasi tentang modelbatch, yaitu class yang digunakan untuk mengelola pemangilan-pemanggilan render.
+    * ModelCache
+Dijelaskan tentang ModelCache, yaitu mengurangi jumlah render calls dengan cara mengoptimatlkan model dan menyatukan model. Dan juga dijelaskan cara penggunaan ModelCache.
+    * ModelBuilder, MeshBuilder and MeshPartBuilder
+Dijelaskan tentang penggunaan ModelBuilder yaitu class untuk membuat model menggunakan code. Dijelaskan juga cara membuat mesh menggunakan MeshBuilder. Selain itu dijelaskan juga pem 3D animations and skinning buatan bagian/part dari mesh yang method nya sudah disediakan pada MeshPartBuilder.
+    * 3D animations and skinning
+Menjelaskan tentang penggunaan animasi 3d pada libgdx serta skinning, yaitu transformasi model berdasarkan transformasi pada node.
+    * Importing Blender models in LibGDX
+Dijelaskan tentang meng-import model dari Blender, pertimbangannya, serta troubleshooting-nya.
+    * 3D Particle Effects
+Dijelaskan tentang 3d Particle effect, Flame(3d particle effect editor dalam libgdx), tipe-tipe partikel efek, penggunaan particle effect dan contohnya.
