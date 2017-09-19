@@ -30,6 +30,6 @@
     *	com.badlogic.gdx.physics.box2d.World
     *	all bullet classes
 * Object Pooling, prinsipnya adalah penggunaan kembali objek yang tidak aktif atau mati, alih-alih menciptakan objek baru setiap saat. LibGdx menawarkan beberapa tools untuk penggabungan yang mudah:
-        *	Poolable Interface: objek yang mengimplementasikan interface ini akan memiliki reset () yang dipanggil saat dilewatkan ke Pool.free (Object)
-        *	Pool: kolam objek yang bisa digunakan kembali untuk menghindari alokasi
-        *	Pools: menyimpan peta Pools (biasanya ReflectionPools) menurut jenis untuk akses statis yang mudah digunakan
+        * Poolable Interface: objek yang mengimplementasikan interface ini akan memiliki reset () yang dipanggil saat dilewatkan ke Pool.free (Object)
+        * Pool: kolam objek yang bisa digunakan kembali untuk menghindari alokasi
+        * Pools: menyimpan peta Pools (biasanya ReflectionPools) menurut jenis untuk akses statis yang mudah digunakan
