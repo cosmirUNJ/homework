@@ -23,7 +23,7 @@
 
 * [Graphics](graphics.md)
 
-* [Managing Your Assets](manageyourasset.md)
+* [Managing Your Assets](manageyourassets.md)
 
 * [Internationalization and Localization](i18nl10n.md)
 
