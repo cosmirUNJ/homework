@@ -9,3 +9,6 @@
 
 * [Image, Audio, ParticleEffect](imgaupar.md)
 
+* [Splash Screen](splashscreen.md)
+
+* [On screen TouchPad](onscreentouchpad.md)
