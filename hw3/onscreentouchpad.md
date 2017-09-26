@@ -116,14 +116,14 @@ Merupakan sebuah on-screen joystick. Area gerakan joystick melingkar, berpusat p
 
 * Setelah mengetik code diatas, kita coba jalankan code tersebut, disini saya menggunakan eclipse dan dijalankan di desktop
 
-![](/img/pertamax.gif)
+![pertamax](/img/pertamax.gif)
 
 #### Hasil Akhir
 
 Setelah menjalankan code diatas, hasil akhir berupa :
 
-![](/img/keduax.gif)
+![keduax](/img/keduax.gif)
 
 #### Referensi
 
-[LibGDX Touchpad Example](http://www.bigerstaff.com/libgdx-touchpad-example/
+![LibGDXTouchpadExample](http://www.bigerstaff.com/libgdx-touchpad-example/
