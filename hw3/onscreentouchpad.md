@@ -1,5 +1,7 @@
 # On screen TouchPad
 
+![keduax](/img/keduax.gif)
+
 Merupakan sebuah on-screen joystick. Area gerakan joystick melingkar, berpusat pada touchpad, dan ukurannya ditentukan oleh dimensi touchpad yang lebih kecil. Ukuran touchpad yang ditentukan. Ini diperlukan karena karakter pada permainan yang akan dibuat akan digunakna on screen toichpad ini.
 
 #### Persiapan
@@ -126,4 +128,4 @@ Setelah menjalankan code diatas, hasil akhir berupa :
 
 #### Referensi
 
-![LibGDXTouchpadExample](http://www.bigerstaff.com/libgdx-touchpad-example/
+![LibGDXTouchpadExample](http://www.bigerstaff.com/libgdx-touchpad-example)
