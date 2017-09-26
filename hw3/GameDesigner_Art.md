@@ -1,4 +1,4 @@
-# <p align="center"> Task </p>
+# Task
 
   1. [One Page Design Template](/hw3/)
   2. [Story Bible Template](/hw3/storybible.md)
