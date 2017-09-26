@@ -5,5 +5,5 @@
 * [High Concept](/hw2/highconcept_eelbat.md)
 
 #### Homework 3
-* [Game Designer and Artist](/hw3/reviewlibgdx.md)
+* [Game Designer and Artist](/hw3/GameDesigner_Art.md)
 * [Programmer Team ](/hw3/highconcept_eelbat.md)
