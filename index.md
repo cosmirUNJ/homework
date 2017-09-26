@@ -6,4 +6,4 @@
 
 #### Homework 3
 * [Game Designer and Artist](/hw3/GameDesigner_Art.md)
-* [Programmer Team ](/hw3/highconcept_eelbat.md)
+* [Programmer Team ](/hw3/programmer_team.md)
