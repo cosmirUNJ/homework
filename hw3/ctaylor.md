@@ -6,7 +6,7 @@
 ### Game Overview
 #### Philosophy
 <p align="justify">Tujuan akhir dari game EelBat adalah mendapatkan buah ajaib untuk bermetamorfosis kembali menjadi kelelawar. Dengan pandangan masyarakat yang unik mengenai hewan-hewan aneh, maka EelBat merupakan karakter yang tepat. Sebagai EelBat, pemain akan menghadapi banyak rintangan dalam menemukan buah ajaib.</p>
-<br>
+<br></br>
 #### Common Question
 <b>What is the game?</b>
 <p align="justify">Eelbat merupakan kasual game 2D dengan karakter kelelawar yang dikutuk oleh penyihir laut menjadi belut karena mengambil buah ajaib. EelBat harus mencari buah ajaib agar dapat terlepas dari kutukan dan berubah kembali ke kelelawar.</p>
