@@ -6,4 +6,9 @@
 
 #### Homework 3
 * [Game Designer and Artist](/hw3/GameDesigner_Art.md)
-* [Programmer Team ](/hw3/programmer_team.md)
+* [Programmer Team](/hw3/programmer_team.md)
+
+#### Homework 4
+* [Artist](/hw4/.md)
+* [Lead Programmer](/hw4/lead_prog.md)
+* [Junior Programmer](/hw4/jun_prog.md)
