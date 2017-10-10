@@ -1,7 +1,8 @@
 # Eelbat Genre Platformer
 
-<div align="center"><img src="img/cap1.png?raw=true" />
-</div>
+
+<p>Di sini kami mencoba membuat dalam genre platformer. Karakter 'eelbat' yang bergerak ke kanan, kiri, atas dan bawah
+</p>
 
 ```
 package com.mygdx.eelbat;
@@ -89,3 +90,8 @@ public class EelbatMain extends ApplicationAdapter {
 }
 
 ```
+
+<p>Hasilnya adalah:</p>
+
+<div align="center"><img src="img/cap1.png?raw=true" />
+</div>
