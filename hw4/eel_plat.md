@@ -93,5 +93,5 @@ public class EelbatMain extends ApplicationAdapter {
 
 <p>Hasilnya adalah:</p>
 
-<div align="center"><img src="img/cap1.png?raw=true" />
+<div align="center"><img src="assets/cap1.png?raw=true" />
 </div>
