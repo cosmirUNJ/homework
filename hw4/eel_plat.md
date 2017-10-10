@@ -1,4 +1,7 @@
-# Eelbat Genre Platform
+# Eelbat Genre Platformer
+
+<div align="center"><img src="img/cap1.png?raw=true" />
+</div>
 
 ```
 package com.mygdx.eelbat;
