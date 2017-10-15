@@ -14,3 +14,8 @@
 
 ### Platform
 <div align="center"><img src="assets/Platfrom.png?raw=true"/></div>
+
+# Sound
+<p>File sound bisa dilihat di: </p>
+
+![disini](https://github.com/cosmirUNJ/homework/tree/master/hw4/assets/sound)
