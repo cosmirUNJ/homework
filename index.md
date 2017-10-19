@@ -12,3 +12,6 @@
 * [Artist](/hw4/character.md)
 * [Lead Programmer](/hw4/lead_prog.md)
 * [Junior Programmer](/hw4/jun_prog.md)
+
+#### ZombieBird Team
+
