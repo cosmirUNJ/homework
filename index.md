@@ -14,4 +14,4 @@
 * [Junior Programmer](/hw4/jun_prog.md)
 
 #### ZombieBird Team
-* [Programmer Team] (/ZombieBird/ZombieBird.md)
+* [Programmer Team](/ZombieBird/ZombieBird.md)
